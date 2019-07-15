@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+
+    <string name="profileimg">A developer in the wild!</string>
+
+    <string name="A_header">Welcome to ALC 4.0</string>
+    <string name="B_name">About ALC</string>
+    <string name="C_name">My Profile</string>
+
+    <string name="A_buttonone">ABOUT ALC</string>
+    <string name="A_buttontwo">MY PROFILE</string>
+
+    <string name="C_f0">Adesuwa T. Dawodu</string>
+    <string name="C_f1_title">Track</string>
+    <string name="C_f1_val">Android</string>
+
+    <string name="C_f2_title">Country</string>
+    <string name="C_f2_val">Nigeria</string>
+
+    <string name="C_f3_title">Email</string>
+    <string name="C_f3_val">littlezigy@gmail.com</string>
+
+    <string name="C_f4_title">Phone Number</string>
+    <string name="C_f4_val">+234 8083033880</string>
+
+    <string name="C_f5_title">Slack Username</string>
+    <string name="C_f5_val">@littlezigy</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

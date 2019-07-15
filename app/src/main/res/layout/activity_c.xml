@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".C">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="116dp"
+        android:weightSum="2">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="291dp"
+            android:background="#000000"
+            android:gravity="center"
+            android:src="@drawable/adesuwa"
+            android:contentDescription="@string/profileimg"
+            tools:layout_editor_absoluteX="141dp"
+            tools:layout_editor_absoluteY="116dp"
+            tools:srcCompat="@drawable/adesuwa" />
+
+        <LinearLayout
+            android:id="@+id/deets"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/textView"
+                android:gravity="center"
+                android:textSize="25sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/C_f0" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
