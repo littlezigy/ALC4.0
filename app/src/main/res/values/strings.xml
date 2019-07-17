@@ -11,19 +11,18 @@
     <string name="A_buttontwo">MY PROFILE</string>
 
     <string name="C_f0">Adesuwa T. Dawodu</string>
-    <string name="C_f1_title">Track</string>
-    <string name="C_f1_val">Android</string>
 
-    <string name="C_f2_title">Country</string>
-    <string name="C_f2_val">Nigeria</string>
+    <string name="C_t1">Track</string>
+    <string name = "C_t2">Country</string>
+    <string name = "C_t3">Email</string>
+    <string name = "C_t4">Phone Number</string>
+    <string name = "C_t5">Slack Username</string>
 
-    <string name="C_f3_title">Email</string>
-    <string name="C_f3_val">littlezigy@gmail.com</string>
+    <string name = "C_v1">Android</string>
+    <string name = "C_v2">Nigeria</string>
+    <string name = "C_v3">littlezigy@gmail.com</string>
+    <string name = "C_v4">"+2348083033880"</string>
+    <string name = "C_v5">"@littlezigy"</string>
 
-    <string name="C_f4_title">Phone Number</string>
-    <string name="C_f4_val">+234 8083033880</string>
-
-    <string name="C_f5_title">Slack Username</string>
-    <string name="C_f5_val">@littlezigy</string>
     <string name="title_activity_main2">Main2Activity</string>
 </resources>
